@@ -78,7 +78,7 @@ export default function Work() {
       <div className={styles.work_container}>
         <div className={styles.title_container}>
           <div className={styles.work_title}>
-            Aisha Living
+            Aisha Comfortable Coliving
           </div>
           <div className={styles.dates}>
             September 2023 - April 2024
@@ -91,12 +91,12 @@ export default function Work() {
             </div>
             <div className={styles.work_lists}>
               <div>
-                While I had learned the basics of the React framework in web development courses, Aisha Living is where 
+                While I had learned the basics of the React framework in web development courses, Aisha Comfortable Coliving (ACC) is where 
                 I gained practical experience and became familiar with React. 
               </div>
               <div>
                 I used the React MUI library throughout to implement navigation, typography, and icons into the UI of 
-                the Aisha Living website. 
+                the ACC website. 
               </div>
               <div>
                 I learned how to use the React Redux library to create functions that created, modified, and removed 
@@ -113,14 +113,14 @@ export default function Work() {
             </div>
             <div className={styles.work_lists}>
               <div>
-                I developed and deployed many iterations of the Aisha Living website, along with other websites related to 
+                I developed and deployed many iterations of the ACC website, along with other websites related to 
                 other projects within the company. I regularly recieved design updates through figma and through one on one calls 
                 with my supervisor. 
               </div>
               <div>
                 Along with my responsibilities as a developer, I vetted Co-op applications for the company, narrowing them down for the interview process. 
                 I also conducted the interviews virtually and discussed potential candidates with my Supervisor. 
-                Before my final Co-Op term with Aisha Living, I onboarded the new hires on the development team, using 
+                Before my final Co-Op term with ACC, I onboarded the new hires on the development team, using 
                 documentation I had written throughout my time there. 
               </div>
             </div>
@@ -128,7 +128,7 @@ export default function Work() {
         </div>
         <div className={styles.link_container}>
           <a target="_blank" rel="noreferrer" href="https://www.comfortablecoliving.ca/">
-            More about Aisha Living
+            More about Aisha Comfortable Coliving
             <OpenInNewIcon fontSize="1rem"></OpenInNewIcon>
           </a>
         </div>
