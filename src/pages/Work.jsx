@@ -127,7 +127,7 @@ export default function Work() {
           </div>
         </div>
         <div className={styles.link_container}>
-          <a target="_blank" rel="noreferrer" href="https://www.aishaliving.ca/">
+          <a target="_blank" rel="noreferrer" href="https://www.comfortablecoliving.ca/">
             More about Aisha Living
             <OpenInNewIcon fontSize="1rem"></OpenInNewIcon>
           </a>
